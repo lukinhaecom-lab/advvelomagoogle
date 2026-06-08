@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Taboola Pixel Code -->
+<script type='text/javascript'>
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 2001249});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/2001249/tfa.js',
+  'tb_tfa_script');
+</script>
+<!-- End of Taboola Pixel Code -->
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "x3wqu0a45q");
+</script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>10 Reasons Why Hardworking Men Are Calling This Soap Their "Jock Itch Breakthrough" | Veloma</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --green:       #315D3E;
+  --green-light: #7DAF8C;
+  --white:       #fff;
+  --bg-white:    #ffffff;
+  --bg-green:    #eaf4dc;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  color: #000;
+  overflow-x: hidden;
+}
+img { max-width: 100%; display: block; }
+a   { text-decoration: none; color: inherit; }
+
+/* ── ANNOUNCEMENT BAR ── */
+.ann-bar {
+  background: #000 url('https://cdn.shopify.com/s/files/1/0694/8421/6489/files/star_night.jpg?v=1767658250') center/cover;
+  color: #fff;
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  min-height: 44px;
+}
+.ann-bar .t1 { font-size: 17px; font-weight: 500; }
+.ann-bar .t2 { font-size: 13px; font-weight: 700; color: #5a8f27; }
+.ann-bar .btn {
+  background: var(--green);
+  color: #fff;
+  padding: 10px 28px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+@media(max-width:640px){
+  .ann-bar { gap: 6px; padding: 8px 10px; }
+  .ann-bar .t1 { font-size: 14px; }
+  .ann-bar .btn { padding: 8px 16px; font-size: 12px; }
+}
+
+/* ── HERO ── */
+.hero {
+  display: flex;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+  background: #fff;
+}
+.hero-text {
+  flex: 1;
+  padding: 24px 64px;
+}
+.hero-text h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 35px;
+  line-height: 1.08;
+  letter-spacing: -1px;
+  font-weight: 400;
+}
+.hero-text h1 strong { color: var(--green); }
+.hero-img {
+  width: 433px;
+  flex-shrink: 0;
+  height: 328px;
+  overflow: hidden;
+}
+.hero-img img { width: 100%; height: 100%; object-fit: cover; }
+
+@media(max-width:768px){
+  .hero { flex-direction: column; }
+  .hero-text { padding: 20px 16px 12px; }
+  .hero-text h1 { font-size: 28px; line-height: 1.15; }
+  .hero-img { width: 100%; height: auto; }
+  .hero-img img { height: 260px; }
+}
+
+/* ── MARQUEE ── */
+.marquee-wrap {
+  background: var(--green-light);
+  overflow: hidden;
+  padding: 16px 0;
+}
+.marquee-track {
+  display: flex;
+  white-space: nowrap;
+  width: max-content;
+  animation: scroll 20s linear infinite;
+}
+.marquee-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+  padding: 0 48px;
+}
+.marquee-item span {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+.dot { width:7px; height:7px; background:#E4FFC8; border-radius:50%; flex-shrink:0; }
+@keyframes scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+@media(max-width:640px){
+  .marquee-wrap { padding: 8px 0; }
+  .marquee-item { padding: 0 24px; }
+  .marquee-item span { font-size: 13px; }
+}
+
+/* ── INTRO ── */
+.intro {
+  display: flex;
+  align-items: center;
+  padding: 40px 80px;
+  gap: 40px;
+  background: url('https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/2cf18583-e53e-4af4-bf7e-aeeb1822f5d3') center/cover;
+}
+.intro-pic {
+  width: 605px;
+  height: 371px;
+  border-radius: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.intro-pic img { width:100%; height:100%; object-fit:cover; }
+.intro-copy {
+  flex: 1;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.5px;
+}
+.intro-copy p { margin-bottom: 18px; }
+.intro-copy p:last-child { margin-bottom: 0; }
+
+@media(max-width:768px){
+  .intro { flex-direction: column; padding: 24px 16px; gap: 20px; }
+  .intro-pic { width:100%; height:220px; }
+  .intro-copy { font-size: 16px; }
+}
+
+/* ── REASON BASE ── */
+.reason {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 40px 80px;
+}
+.reason.bg-white { background: var(--bg-white); }
+.reason.bg-green { background: var(--bg-green); }
+
+/* text LEFT, image RIGHT  → default row */
+/* text RIGHT, image LEFT  → .reversed  */
+.reason.reversed { flex-direction: row-reverse; }
+
+.reason-copy {
+  flex: 1;
+  max-width: 700px;
+}
+.reason-pic {
+  flex: 1;
+  max-width: 700px;
+  border-radius: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.reason-pic img {
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.reason-num {
+  font-family: 'PT Serif', serif;
+  font-size: 40px;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 52px;
+  letter-spacing: -1px;
+  background: url('https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/e0dacc80-2269-41e0-a54e-5c8a9bdad722') no-repeat 0 31px/cover;
+  display: inline-block;
+  width: 175px;
+  margin-bottom: 4px;
+}
+.reason-title {
+  font-family: 'PT Serif', serif;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+  margin-top: 15px;
+}
+.reason-body {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.5px;
+  margin-top: 20px;
+}
+.reason-body p { margin-bottom: 16px; }
+.reason-body p:last-child { margin-bottom: 0; }
+
+.cta-btn {
+  display: inline-flex;
+  align-items: center;
+  background: var(--green);
+  color: #fff;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-top: 22px;
+  cursor: pointer;
+  transition: opacity .2s;
+}
+.cta-btn:hover { opacity: .88; }
+
+@media(max-width:768px){
+  .reason {
+    flex-direction: column !important;
+    padding: 24px 16px;
+    gap: 20px;
+  }
+  /* on mobile: image always on top, text below */
+  .reason.bg-white .reason-copy,
+  .reason.bg-green .reason-copy  { order: 2; }
+  .reason.bg-white .reason-pic,
+  .reason.bg-green .reason-pic   { order: 1; }
+
+  .reason-copy, .reason-pic { max-width: 100%; width: 100%; }
+  .reason-num  { font-size: 32px; line-height: 44px; }
+  .reason-title{ font-size: 22px; }
+  .reason-body { font-size: 16px; }
+}
+
+/* ── DIVIDER ── */
+.dashed { border: none; border-top: 3px dashed #000; margin: 20px; }
+
+/* ── REVIEWS ── */
+.reviews {
+  padding: 20px 80px 40px;
+  background: #fff;
+}
+.tp-row { display:flex; align-items:center; gap:0; margin-bottom:0; }
+.tp-row img { height: 22px; }
+.tp-text { font-size:16px; color:#043126; padding-left:10px; letter-spacing:-0.5px; }
+.tp-text a { color:#043126; text-decoration:underline; }
+.reviews-title {
+  font-family: 'PT Serif', serif;
+  font-size: 34px;
+  font-weight: 400;
+  line-height: 1.24;
+  letter-spacing: -0.5px;
+  margin: 15px 0 30px;
+}
+.cards { display: flex; gap: 32px; }
+.card {
+  flex: 1;
+  background: #F5F5F5;
+  border: 1px solid #D4D4D4;
+  border-radius: 8px;
+  padding: 24px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.card-stars { display:flex; align-items:center; gap:5px; }
+.card-stars .sc { color:#043126; font-size:16px; font-weight:400; letter-spacing:-0.5px; padding-left:10px; }
+.card-stars img { height:24px; }
+.card-title { color:#4E3227; font-size:20px; font-weight:700; line-height:1.4; }
+.card-body  { color:#4E3227; font-size:16px; line-height:1.4; }
+.card-author { display:flex; align-items:center; gap:8px; margin-top:8px; }
+.avatar { width:40px; height:40px; border-radius:50%; overflow:hidden; flex-shrink:0; }
+.avatar img { width:100%; height:100%; object-fit:cover; }
+.author-name { font-size:16px; line-height:1.5; }
+.verified { display:flex; align-items:center; gap:4px; margin-top:2px; }
+.verified img { width:18px; height:18px; }
+.verified span { font-size:13px; color:#009370; }
+
+@media(max-width:768px){
+  .reviews { padding: 20px 16px 32px; }
+  .reviews-title { font-size:22px; }
+  .cards { flex-direction: column; gap: 16px; }
+  .card-title { font-size: 17px; }
+  .card-body  { font-size: 15px; }
+}
+
+/* ── FOOTER ── */
+.footer {
+  background: #111 url('https://cdn.shopify.com/s/files/1/0694/8421/6489/files/VEpdp_footer_bg.webp?v=1774424590') center bottom/cover;
+  color: #fff;
+  padding: 60px 80px 30px;
+}
+.footer-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: flex-start;
+}
+.footer-logo img { height: 44px; width: auto; margin-bottom: 16px; }
+.footer-nl { flex: 1 1 220px; }
+.footer-nl p { font-size:14px; margin-bottom:12px; line-height:1.5; }
+.footer-form { display:flex; }
+.footer-form input {
+  flex:1; padding:10px 14px;
+  background:rgba(255,255,255,.12);
+  border:1px solid rgba(255,255,255,.3);
+  border-right:none;
+  color:#fff; font-size:14px; outline:none;
+}
+.footer-form input::placeholder { color:rgba(255,255,255,.55); }
+.footer-form button {
+  background:var(--green); color:#fff;
+  border:none; padding:10px 20px;
+  font-size:14px; font-weight:600; cursor:pointer;
+}
+.footer-col { min-width:130px; }
+.footer-col h4 { font-size:15px; font-weight:700; margin-bottom:12px; }
+.footer-col ul { list-style:none; }
+.footer-col li { margin-bottom:8px; }
+.footer-col a  { font-size:14px; color:rgba(255,255,255,.8); }
+.footer-col a:hover { color:#fff; }
+.footer-col span { font-size:14px; color:rgba(255,255,255,.8); cursor:default; }
+.footer-bottom {
+  display:flex; align-items:center; justify-content:space-between;
+  flex-wrap:wrap; gap:16px;
+  margin-top:36px;
+  padding-top:20px;
+  border-top:1px solid rgba(255,255,255,.15);
+  font-size:13px; color:rgba(255,255,255,.6);
+}
+.footer-bottom img { height:38px; width:auto; }
+
+@media(max-width:768px){
+  .footer { padding: 40px 16px 24px; }
+  .footer-top { gap:28px; }
+  .footer-bottom { justify-content:center; }
+}
+</style>
+</head>
+<body>
+
+<!-- ANNOUNCEMENT BAR -->
+<div class="ann-bar">
+  <span class="t1"><strong>SPRING SALE</strong> | ENDS SOON:</span>
+  <span class="t2">FREE SOAPS + FREE GIFTS ❤️☘️</span>
+  <a href="https://www.veloma.website" class="btn">CLAIM OFFER</a>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-text">
+    <h1><span style="color:var(--green)"><strong>10 Reasons Why</strong></span> Hardworking Men Are Calling This Soap Their "Jock Itch Breakthrough"</h1>
+  </div>
+  <div class="hero-img">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/e3760e6a-3391-4b95-a03a-c6b6e315e468"
+         alt="Man holding Veloma soap" loading="eager">
+  </div>
+</div>
+
+<!-- MARQUEE -->
+<div class="marquee-wrap">
+  <div class="marquee-track">
+    <div class="marquee-item"><span>No More Jock Itch</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Naturopath Formulated</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Money-Back Guarantee</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>No More Jock Itch</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Naturopath Formulated</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Money-Back Guarantee</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <!-- duplicate for seamless loop -->
+    <div class="marquee-item"><span>No More Jock Itch</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Naturopath Formulated</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Money-Back Guarantee</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>No More Jock Itch</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Naturopath Formulated</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+    <div class="marquee-item"><span>Money-Back Guarantee</span></div>
+    <div class="marquee-item"><div class="dot"></div></div>
+  </div>
+</div>
+
+<!-- INTRO -->
+<div class="intro">
+  <div class="intro-pic">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/3df95e4b-8220-459e-b053-9c82591677fb"
+         alt="Pharmacy shelf" loading="lazy">
+  </div>
+  <div class="intro-copy">
+    <p>There are hundreds of antifungal treatments on pharmacy shelves promising to <strong>end jock itch for good.</strong></p>
+    <p>But there are only a handful that <strong>actually address</strong> why the fungus keeps coming back — even after prescriptions and expensive creams.</p>
+    <p>This <strong>Naturopath-formulated soap</strong> has cracked the code by targeting something called biofilms, the protective shields that make fungus 1000x more resistant to regular treatments.</p>
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 1 — text LEFT · image RIGHT · bg WHITE ═══════════════ -->
+<div class="reason bg-white">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 1</div>
+    <h2 class="reason-title"><strong>It Kills The "Protected" Fungus Other Treatments Miss</strong></h2>
+    <div class="reason-body">
+      <p>Research shows fungus builds protective shields the moment they land on your body (even before you notice the rash) making them <strong>1000x resistant</strong> to typical treatments.</p>
+      <p>This soap contains <strong>Australian tea tree oil</strong> — one of the only natural compounds proven to break through biofilms, then kill the exposed fungus <strong>in ONE GO.</strong></p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/09242-ezgif.com-optimize.gif?v=1758747343"
+         alt="Fungus animation" loading="lazy" style="height:396px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 2 — image LEFT · text RIGHT · bg GREEN ═══════════════ -->
+<div class="reason bg-green reversed">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 2</div>
+    <h2 class="reason-title"><strong>Prevents Jock Itch From Coming Back</strong></h2>
+    <div class="reason-body">
+      <p>Most antifungal creams contain lab-made moisturizers that <strong>fungus literally feeds on</strong> — which is why it comes back after a few weeks.</p>
+      <p><strong>Witch hazel</strong> strips away ALL the moisture fungus needs to survive. So you can be confident that hellish jock itch is <strong>gone for GOOD.</strong></p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/a023d461-904d-411a-a0a1-60085bde0e89"
+         alt="Witch hazel" loading="lazy" style="height:434px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 3 — text LEFT · image RIGHT · bg WHITE ═══════════════ -->
+<div class="reason bg-white">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 3</div>
+    <h2 class="reason-title"><strong>Your Partner Won't Get Infected Anymore</strong></h2>
+    <div class="reason-body">
+      <p>Most men in relationships <strong>avoid intimacy</strong> to protect their partners from infections.</p>
+      <p>By killing fungus at the root instead of just temporarily suppressing it, this stops the cycle and lets you <strong>enjoy intimacy without fear.</strong></p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/omar_with_girlfriend.png?v=1767135444"
+         alt="Couple" loading="lazy" style="height:316px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 4 — image LEFT · text RIGHT · bg GREEN ═══════════════ -->
+<div class="reason bg-green reversed">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 4</div>
+    <h2 class="reason-title"><strong>It's Stupid Simple to Use</strong><br><em>(Just Switch Your Soap)</em></h2>
+    <div class="reason-body">
+      <p><strong>No extra steps</strong>, no blow-drying your groin, no going commando in front of your fan.</p>
+      <p>You're already showering anyway — takes literally <strong>zero extra time</strong> 😅</p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/12adcbbe-a8bf-4b60-95a7-630058c2c57c"
+         alt="Simple swap" loading="lazy" style="height:460px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 5 — text LEFT · image RIGHT · bg WHITE ═══════════════ -->
+<div class="reason bg-white">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 5</div>
+    <h2 class="reason-title"><strong>Built for Guys Who Sweat for a Living</strong></h2>
+    <div class="reason-body">
+      <p>Blue-collar worker? Athlete? Sit All Day?</p>
+      <p>When you're sweating in crazy heat for hours, creams, sprays and powders simply don't work <strong>(or only temporarily).</strong></p>
+      <p>This soap works BETTER with sweat — so when you hop in the shower, it can actually be <strong>3x more effective</strong> than your usual antifungal cream.</p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/d1cee23f-8bb4-44ea-b3f1-69581f38de73"
+         alt="Man sweating" loading="lazy" style="height:428px; object-fit:cover; object-position:center 5px;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 6 — image LEFT · text RIGHT · bg GREEN ═══════════════ -->
+<div class="reason bg-green reversed">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 6</div>
+    <h2 class="reason-title"><strong>Works in Days, NOT Weeks</strong></h2>
+    <div class="reason-body">
+      <p>Most men see notable results within the <strong>first 7 days.</strong></p>
+      <p>By day 30, their jock itch is <strong>completely gone.</strong></p>
+      <p>Compare that to prescriptions that can take 7 weeks <strong>(and often fail after).</strong></p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/image_3_1.png?v=1758836950"
+         alt="Calendar / before-after" loading="lazy" style="height:460px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 7 — text LEFT · image RIGHT · bg WHITE ═══════════════ -->
+<div class="reason bg-white">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 7</div>
+    <h2 class="reason-title"><strong>You'll Sleep Through the Night (No More 3AM Scratching Sessions)</strong></h2>
+    <div class="reason-body">
+      <p>The anti-inflammatory compounds calm the nerve endings that cause that unbearable night itch.</p>
+      <p>Most guys report their first full night's sleep <strong>in just 3 days.</strong></p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/3b9332bf-a5d8-40ae-9074-59358f0eea46"
+         alt="Man sleeping" loading="lazy" style="height:316px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 8 — image LEFT · text RIGHT · bg GREEN ═══════════════ -->
+<div class="reason bg-green reversed">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 8</div>
+    <h2 class="reason-title"><strong>Naturopath Formulated</strong><br><strong>(Not Lab-Made Garbage)</strong></h2>
+    <div class="reason-body">
+      <p>This isn't another cheap antifungal "solution."</p>
+      <p>This soap is created with <strong>16 years of experience</strong> by founder Andrew Fogarty, a practicing naturopath who's treated hundreds of jock itch cases and discovered why medical treatments keep failing.</p>
+    </div>
+  </div>
+  <div class="reason-pic">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/fb9d9450-f0b1-4db6-83b3-54a50d5cc502"
+         alt="Person holding Veloma soap" loading="lazy" style="height:460px; object-fit:cover; object-position:center -90px;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 9 — text LEFT · image RIGHT · bg WHITE ═══════════════ -->
+<div class="reason bg-white">
+  <div class="reason-copy">
+    <div class="reason-num">&nbsp;Reason 9</div>
+    <h2 class="reason-title"><strong>30-Day Money Back Guarantee</strong></h2>
+    <div class="reason-body">
+      <p>Shower with the soap daily, lather up and let it sit for 3-5 minutes.</p>
+      <p>If in 30 days your jock itch hasn't faded or at least gotten significantly better, <strong>Andrew gives your money back.</strong></p>
+      <p>Because if he can't keep his promise to his patients, <strong>he doesn't want their money.</strong></p>
+    </div>
+  </div>
+  <div class="reason-pic" style="max-width:420px; flex-shrink:0;">
+    <img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/ecf1a8a4-f1f6-4ca5-802c-dcde97aac38d"
+         alt="Money back badge" loading="lazy" style="height:428px; object-fit:cover; object-position:center -5px;">
+  </div>
+</div>
+
+<!-- ═══════════════ REASON 10 — image LEFT · text RIGHT · bg GREEN ═══════════════ -->
+<div class="reason bg-green reversed">
+  <div class="reason-copy">
+    <div class="reason-num" style="width:207px;">&nbsp;Reason 10</div>
+    <h2 class="reason-title"><strong>You Get FREE Soaps and Gifts 🎁</strong></h2>
+    <div class="reason-body">
+      <p>When ordering through this article, Andrew wants to make sure you have enough supply to <strong>completely eliminate the problem.</strong></p>
+      <p>Plus, after seeing too many chronic cases, he genuinely doesn't want more men to suffer through this hell.</p>
+    </div>
+    <a href="https://www.veloma.website" class="cta-btn">CLAIM SPECIAL OFFER NOW</a>
+  </div>
+  <div class="reason-pic">
+    <img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/testimonials_images_with_soap.webp?v=1759059348"
+         alt="Testimonials collage" loading="lazy" style="height:460px; object-fit:cover;">
+  </div>
+</div>
+
+<!-- DIVIDER -->
+<hr class="dashed">
+
+<!-- REVIEWS -->
+<div class="reviews">
+  <div class="tp-row">
+    <img src="https://assets.replocdn.com/projects/c490de83-582d-42fd-adee-361dbd4f1285/91df9d60-0e5a-4f65-8c22-279552f4c2cf" alt="Trustpilot stars">
+    <span class="tp-text">Rate 4.6 Excellent <u>8</u><a href="https://www.trustpilot.com/review/legacareofficial.com"><u>67 Reviews</u></a></span>
+  </div>
+  <h2 class="reviews-title"><strong>What Jock Itch-Free Men Are Saying</strong></h2>
+
+  <div class="cards">
+    <!-- Card 1 -->
+    <div class="card">
+      <div class="card-stars">
+        <span class="sc">4.9</span>
+        <img src="https://assets.replocdn.com/projects/c490de83-582d-42fd-adee-361dbd4f1285/91df9d60-0e5a-4f65-8c22-279552f4c2cf" alt="stars">
+      </div>
+      <div class="card-title"><strong>"Works Better Than My Prescription"</strong></div>
+      <div class="card-body">My doctor gave me this cream that cost 80 bucks and it worked for maybe a week but then came back 🫤. Found this soap through some Reddit thread when I couldn't sleep. I was skeptical but figured what the hell, already wasted enough money. It actually cleared everything up in about 10 days. Been using it for 2 months now, still clear. Wish I found this earlier.</div>
+      <div class="card-author">
+        <div class="avatar"><img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/0ebc5b8b-4420-4d44-b3e7-91f71a978e60" alt="Kacper P."></div>
+        <div>
+          <div class="author-name"><strong>Kacper P.</strong></div>
+          <div class="verified">
+            <img src="https://cdn.shopify.com/s/files/1/0779/0673/9384/files/check_icon_1ac0f5d7-bc24-4eb5-aeb9-67e2b24b8fd0.png?v=1748514424" alt="check">
+            <span>VERIFIED CUSTOMER</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card">
+      <div class="card-stars">
+        <span class="sc">4.9</span>
+        <img src="https://assets.replocdn.com/projects/c490de83-582d-42fd-adee-361dbd4f1285/91df9d60-0e5a-4f65-8c22-279552f4c2cf" alt="stars">
+      </div>
+      <div class="card-title"><strong>"No More Avoiding My Girlfriend"</strong></div>
+      <div class="card-body">"This is kind of embarrassing but I was avoiding intimacy with my girlfriend for months because she kept getting infections. Tried every antifungal out there, nothing worked until I found this veloma soap. I took around 3 weeks before we were back to normal if you know what I mean haha. SO WORTH IT"</div>
+      <div class="card-author">
+        <div class="avatar"><img src="https://assets.replocdn.com/projects/ae6b762e-01ed-40dd-be9f-c59c4fe3110a/2db758d0-7783-49b1-94f5-10d9233b49dd" alt="Rowan E."></div>
+        <div>
+          <div class="author-name" style="color:#043126;">Rowan E.</div>
+          <div class="verified">
+            <img src="https://cdn.shopify.com/s/files/1/0779/0673/9384/files/check_icon_1ac0f5d7-bc24-4eb5-aeb9-67e2b24b8fd0.png?v=1748514424" alt="check">
+            <span>VERIFIED CUSTOMER</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="card">
+      <div class="card-stars">
+        <span class="sc">4.9</span>
+        <img src="https://assets.replocdn.com/projects/c490de83-582d-42fd-adee-361dbd4f1285/91df9d60-0e5a-4f65-8c22-279552f4c2cf" alt="stars">
+      </div>
+      <div class="card-title"><strong>"Jock Itch Gone In 12 Days"</strong></div>
+      <div class="card-body">"Look, I'm not one to write reviews but this deserves it. Had jock itch for over a year, saw 5 different doctors. Nothing worked. This soap cleared it in literally a week and a half. You just swap your regular soap for this one — that's it. I honestly can't believe something this simple actually fixed it, but it does and I will forever be grateful"</div>
+      <div class="card-author">
+        <div class="avatar"><img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/c77b30f7-719e-4f92-88cd-d551b8577f21.webp?v=1758909283" alt="Alan N."></div>
+        <div>
+          <div class="author-name" style="color:#043126;">Alan N.</div>
+          <div class="verified">
+            <img src="https://cdn.shopify.com/s/files/1/0779/0673/9384/files/check_icon_1ac0f5d7-bc24-4eb5-aeb9-67e2b24b8fd0.png?v=1748514424" alt="check">
+            <span>VERIFIED CUSTOMER</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <a href="https://www.veloma.website" class="cta-btn">CLAIM SPECIAL OFFER NOW</a>
+</div>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div style="width:100%; margin-bottom:32px;">
+    <img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/VEpdp_footer_logo.webp?v=1774424578" alt="Veloma" style="height:44px; width:auto;">
+  </div>
+  <div class="footer-top">
+    <div class="footer-nl">
+      <p><strong>Keep in touch</strong> Join our list for exclusive access to discounts and product launches.</p>
+      <form class="footer-form" action="/contact#contact_form" method="post">
+        <input type="hidden" name="form_type" value="customer">
+        <input type="email" name="contact[email]" placeholder="Your email" required>
+        <button type="submit">Send</button>
+      </form>
+    </div>
+    <div class="footer-col">
+      <h4>Shop</h4>
+      <ul>
+        <li><span>Collection</span></li>
+        <li><span>Track Order</span></li>
+        <li><span>The Relief Fund</span></li>
+        <li><span>Search</span></li>
+        <li><span>Beware of scams</span></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Company</h4>
+      <ul>
+        <li><span>About Us</span></li>
+        <li><span>Contact Us</span></li>
+        <li><span>info@veloma.store</span></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Policies</h4>
+      <ul>
+        <li><span>Privacy Policy</span></li>
+        <li><span>Return &amp; Refund Policy</span></li>
+        <li><span>Terms of Service</span></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Policies</h4>
+      <ul>
+        <li><span>Your Privacy Choices</span></li>
+        <li><span>Shipping Policy</span></li>
+        <li><span>Cancellation Policy</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026, Veloma. All rights Reserved.</span>
+    <img src="https://cdn.shopify.com/s/files/1/0694/8421/6489/files/VEpdp_footer_brand.webp?v=1774424572" alt="Trust badges">
+  </div>
+</footer>
+
+</body>
+</html>
